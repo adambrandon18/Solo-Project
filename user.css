@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    background-color: rgb(84, 84, 184);
+    border-color: yellow;
+    border-radius: 65px;
+    width: 1050px;
+    
+
+    
+}
+
+.mb-3{
+    width: 350px;
+    background-color: rgb(185, 93, 93);
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+
+}
+
+.mb-2{
+    width: 350px;
+    background-color: rgb(163, 86, 86);
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    
+
+}
